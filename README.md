@@ -2,38 +2,18 @@
 
 Systems Analysis and Development student at Embarque Digital - Recife-PE, software developer with experience in project management and customer relations.
 
-<div style="display: inline_block"><br>
-<img align="center" alt="HTML" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="JavaScript" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="TypeScript" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-<img align="center" alt="PHP" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
-<img align="center" alt="Python" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="SQL" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-<img align="center" alt="Java" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-<img align="center" alt="Dart" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-
-<img align="center" alt="React" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="30"/>
+</p>
   
   ##
 
