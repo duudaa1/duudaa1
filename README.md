@@ -1,6 +1,6 @@
-## Hi! I'm Maria Eduarda Gomes ✌✨
+## Hi! I'm Maria Eduarda Gomes ✨
 
-Systems Analysis and Development student at Embarque Digital - Recife-PE, software developer with experience in project management and customer relations.
+Systems Analysis and Development student at Embarque Digital - Recife-PE, software developer with experience in project management, data analysis and customer relations.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30"/>
